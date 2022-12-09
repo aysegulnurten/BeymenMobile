@@ -1,0 +1,35 @@
+Created by testinium on 7.12.2022
+
+This is a concept file with following syntax for each concept.
+# Beymen sayfasi acilir
+# Navigation izni Only this yapilir
+* "com.android.permissioncontroller:id/permission_allow_one_time_button"
+
+# Arama kismina tiklanir
+* "com.mobisoft.beymen:id/navigation_search"
+
+# Arama butonuna pantolon yaz
+* "com.mobisoft.beymen:id/search_bar_text"
+
+# Filterele butonuna tikla
+* "com.mobisoft.beymen:id/tv_filter"
+
+# Urun cesidine tiklanir
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[7]"
+
+# Jean pantolon secilir
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[6]/android.widget.LinearLayout/android.widget.TextView"
+
+# Urunleri listele tiklanir
+* "com.mobisoft.beymen:id/btn_apply_filter"
+
+# Urun secilir
+* "com.mobisoft.beymen:id/llProductView"
+//urun secme kisminda benim emulatorumde bir tane ürün gelmekte
+
+# Sepete ekle butonu text icerdigini kontrol et
+//(manuel olarak yaptigimda)sepete ekle butonunda hangisini almam gerektigini anlamadim cunku select elements tusu net bir yeri almadi
+# Favori tikla
+//(yukaridaki nedenim burada da gecerli)
+
+# Kullanici giris ekrani kontrol edilir
